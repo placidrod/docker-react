@@ -12,7 +12,7 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <p>Hello Hot reload in docker</p>
-          <p>Code in linux. Check without pass. Push without pass check 2.</p>
+          <p>Code in linux. Check without pass. Push without pass check 3.</p>
           <a
             className="App-link"
             href="https://reactjs.org"
